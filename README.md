@@ -92,7 +92,7 @@ FCPS-Quiz-App/
 ### Immediate Browser Execution
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/muhammadokashapak/FCPS-Quiz-App.git
+   git clone https://github.com/okashaxortlogix/FCPS-Quiz-App.git
    cd FCPS-Quiz-App
    ```
 2. Simply double-click `index.html` to open it in Chrome, Edge, Safari, or Firefox.
@@ -111,7 +111,7 @@ FCPS-Quiz-App/
 **Muhammad Okasha**  
 *AI & Medical Technology Software Architect*  
 - **GitHub:** [@muhammadokashapak](https://github.com/muhammadokashapak)
-- **Repository:** [FCPS-Quiz-App](https://github.com/muhammadokashapak/FCPS-Quiz-App)
+- **Repository:** [FCPS-Quiz-App](https://github.com/okashaxortlogix/FCPS-Quiz-App)
 
 ---
 

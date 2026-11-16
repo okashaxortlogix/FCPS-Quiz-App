@@ -2,3 +2,20 @@ __pycache__/
 *.pyc
 *.db
 .env
+
+# System & Build Ignores
+node_modules/
+.env.local
+*.log
+.terraform/
+*.exe
+*.pack
+*.py[cod]
+venv/
+.venv/
+.next/
+dist/
+build/
+*.apk
+books/
+*.onnx
